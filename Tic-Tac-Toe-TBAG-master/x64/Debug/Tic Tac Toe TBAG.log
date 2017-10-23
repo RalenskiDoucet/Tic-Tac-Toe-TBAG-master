@@ -1,0 +1,10 @@
+﻿  main.cpp
+  TicTacToe.cpp
+c:\users\s178029\downloads\tic-tac-toe-tbag-master\tic-tac-toe-tbag-master\tictactoe.cpp(36): error C2601: 'PlayingBoard::GetMove': local function definitions are illegal
+  c:\users\s178029\downloads\tic-tac-toe-tbag-master\tic-tac-toe-tbag-master\tictactoe.cpp(24): note: this line contains a '{' which has not yet been matched
+c:\users\s178029\downloads\tic-tac-toe-tbag-master\tic-tac-toe-tbag-master\tictactoe.cpp(80): error C2601: 'PlayingBoard::ChangePlayer': local function definitions are illegal
+  c:\users\s178029\downloads\tic-tac-toe-tbag-master\tic-tac-toe-tbag-master\tictactoe.cpp(24): note: this line contains a '{' which has not yet been matched
+c:\users\s178029\downloads\tic-tac-toe-tbag-master\tic-tac-toe-tbag-master\tictactoe.cpp(89): error C2601: 'PlayingBoard::TurnOrder': local function definitions are illegal
+  c:\users\s178029\downloads\tic-tac-toe-tbag-master\tic-tac-toe-tbag-master\tictactoe.cpp(24): note: this line contains a '{' which has not yet been matched
+c:\users\s178029\downloads\tic-tac-toe-tbag-master\tic-tac-toe-tbag-master\tictactoe.cpp(24): fatal error C1075: the left brace '{' was unmatched at the end of the file
+  Generating Code...
